@@ -1,0 +1,145 @@
+h1{
+    display: inline-block;
+    padding: 0.6em 2em;
+    border-radius: 2px;
+    width: 50px;
+    border-width: 50px;
+    filter: drop-shadow(1px 1px 20px yellow);
+    border-top: 2px solid blueviolet;
+    border-left: 2px solid blueviolet;
+    border-right: 2px solid blueviolet;
+    border-bottom: 2px solid blueviolet;
+box-shadow:
+ rgba(240, 46 ,170,0.4)5px 5px,
+ rgba(240, 46 ,170,0.3)10px 10px,
+ rgba(240, 46 ,170,0.2)15px 15px
+
+}
+.box{
+  img{
+        
+     text-shadow:5rem ;   
+    height: 25%;
+    width: 25%;
+    border-radius: 80%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 36rem;
+    filter: drop-shadow(1px 1px 20px yellow);}
+
+ h2{
+        align-items: center;
+        justify-content: center;
+        font-size: 2.9rem;
+        color:brown;
+        text-align: center;
+        text-decoration-thickness: 2px;
+        
+    }
+  p::first-line{
+    font-weight: bold;
+    color: cornflowerblue;
+
+  }
+  p::first-letter{
+    font-size: 2em;
+    color:#ff6f61;
+  }
+  p{
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+        
+};
+
+*{
+    margin: 0;
+    padding: 0;
+    }
+
+    nav{
+        background: black;
+        padding: 1rem;
+        filter: drop-shadow(1px 1px 20px brown);
+}
+    
+    nav ul{
+        list-style-type:none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: space-around;
+    }
+
+nav ul li a{
+    display: inline;
+    color: white;
+    text-decoration: double;
+    font-style: italic;
+    font-size: 140%;
+    text-shadow: 1px 1px 20px green;
+    /* filter: drop-shadow(1px 1px 20px brown); */
+}
+
+.content-area {
+  background-color: #f5f5dc;
+  
+  background-size:auto;
+  background-position: center;
+ background-image: repeating-linear-gradient(45deg, lab(90.87% 0.22 9.37),  10px, #f5f5dc 10px, #f5f5dc 20px);
+   padding: 16px;
+  text-align: center;
+  margin-left: 25rem;
+  margin-right: 25rem;
+  border-radius: 8%;
+  
+  header{
+    font-style: italic;
+    color: red;
+    text-decoration: underline;
+    font-size: 1em;
+    font-weight:bold; 
+  }
+  
+
+}
+.box1{
+    img{
+        justify-content: center;
+        align-items: center;
+        /* margin-left: 25rem; */
+        margin-right: 35rem;
+        display: inline;
+        height:25%;
+        width:39%;
+        }};
+
+        .intro{
+          float: right;
+        }
+        .choice{
+          
+           p{
+            color: rgb(125, 0, 139);
+            font-size: 2em;
+            filter: drop-shadow( brown 1px  1px);
+          }
+           }
+           label{
+            font-size: 1em;
+           }
+          textarea{
+            box-shadow:
+ rgba(240, 46 ,170,0.4)5px 5px,
+ rgba(240, 46 ,170,0.3)10px 10px,
+ rgba(240, 46 ,170,0.2)15px 15px;
+ padding:13px;
+      position: centre;
+ align-items: center;
+        justify-content: center;
+        margin-left: 45rem;
+        margin-right: 25rem;
+          };
+          
+         
