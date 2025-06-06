@@ -1,0 +1,2 @@
+# Spell
+My "MAGICAL" website.
